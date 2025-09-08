@@ -18,4 +18,5 @@ for i, ciudad in enumerate(ciudades):  # Recorre ciudades
         promedio = suma / len(dias)
         print(f"  Semana {j+1}: {promedio:.2f} °C")
 
+
     
